@@ -20,7 +20,7 @@ def monopoly_with_third_tier
   {
     :railroads => {:pieces => 4, 
     :rent_in_dollars => {
-        :price1 => 2,
+:one_piece_owned => 25,
         :price2 => 4,
         :price3 => 6,
         :price4 => 8
