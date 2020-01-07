@@ -20,10 +20,10 @@ def monopoly_with_third_tier
   {
     :railroads => {:pieces => 4, 
     :rent_in_dollars => {
-        :price1 => {},
-        :price2 => {},
-        :price3 => {},
-        :price4 => {}
+        :price1 => 2,
+        :price2 => 4,
+        :price3 => 6,
+        :price4 => 8
       },
       :names => {
         :name1 => 'barry',
