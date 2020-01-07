@@ -30,8 +30,8 @@ def monopoly_with_third_tier
         :name2 => 'harry',
         :name3 => 'larry',
         :name4 => 'gary'
-      },
-      :one_piece_owned => 25
+      }
+      
     }
   }
 end
